@@ -1486,7 +1486,7 @@
  * the float border color, awesomebar, urgentborder and titlecolor patches.
  * https://dwm.suckless.org/patches/xrdb/
  */
-#define XRDB_PATCH 0
+#define XRDB_PATCH 1
 
 /* This patch allows for integer, float and string settings to be loaded from Xresources.
  * Xresources takes precedence over xrdb.
